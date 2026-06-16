@@ -1,0 +1,16 @@
+Que las comunidades y organizaciones ciudadanas puedan construir sus propias herramientas
+tecnológicas es fundamental en un mundo donde la tecnología define cómo nos comunicamos,
+nos organizamos y accedemos a la información.
+
+Node.js es una tecnología de código abierto, lo que significa que cualquier persona puede
+usarla, aprenderla y modificarla sin pagar licencias. Esto reduce las barreras de entrada
+para comunidades con pocos recursos, permitiéndoles crear soluciones digitales adaptadas
+a sus propias necesidades y realidades.
+
+Cuando una comunidad construye su propia herramienta, no depende de plataformas externas
+que pueden cambiar sus condiciones o dejar de funcionar. Esa independencia tecnológica
+fortalece la autonomía y la capacidad de acción colectiva.
+
+Además, aprender a desarrollar con tecnologías como Node.js abre oportunidades laborales
+y educativas para personas que antes no tenían acceso al mundo del desarrollo de software,
+lo cual contribuye a reducir las desigualdades digitales en la sociedad.
