@@ -1,0 +1,10 @@
+El uso responsable de la información en internet, la participación ciudadana y el trabajo
+técnico con herramientas como Git están profundamente relacionados, ya que los tres exigen
+orden, responsabilidad y pensamiento crítico.
+Cuando navegamos en internet, tenemos la responsabilidad de verificar lo que consumimos y
+compartimos, porque difundir información falsa puede causar daño a otras personas y a la sociedad
+Git, por su parte, nos enseña a organizar el trabajo de manera estructurada, registrando
+cada cambio con claridad y trabajando de forma colaborativa. Al igual que un ciudadano
+digital responsable verifica sus fuentes, un programador responsable documenta sus cambios
+y trabaja con orden. En definitiva, ser responsable en internet, como ciudadano y como
+técnico, es parte de una misma cultura de respeto y compromiso.
