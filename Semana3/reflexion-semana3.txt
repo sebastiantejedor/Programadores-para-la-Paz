@@ -1,0 +1,11 @@
+Mantener un registro de cambios en los proyectos de software es una práctica esencial
+para cualquier equipo de desarrollo, ya que permite saber exactamente qué modificaciones
+se han hecho, quién las hizo y en qué momento.
+Con herramientas como Git, es posible volver a versiones anteriores del proyecto si algo
+falla, lo cual evita perder trabajo importante y facilita la corrección de errores.
+Además, Git permite que varios programadores trabajen al mismo tiempo sobre el mismo
+proyecto sin pisarse el trabajo entre sí, gracias a su sistema de ramas y commits. Esto
+hace que la colaboración sea más ordenada y eficiente.
+
+En definitiva, usar Git no es solo una buena práctica técnica, sino un hábito de
+responsabilidad profesional. 
