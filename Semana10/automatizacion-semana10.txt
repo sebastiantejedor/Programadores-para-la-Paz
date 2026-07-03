@@ -1,0 +1,13 @@
+Flujo de automatización
+
+Evento:
+Se registra un nuevo reporte en la plataforma.
+
+Acción:
+n8n envía automáticamente una notificación a un grupo de Telegram.
+
+Mensaje:
+"Nuevo reporte recibido. Ingrese al sistema para revisarlo."
+
+Información que NO debe enviarse:
+Nombres completos, documentos de identidad, direcciones, teléfonos, contraseñas, tokens, claves de API ni ningún dato personal o sensible.
