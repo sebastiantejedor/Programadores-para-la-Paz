@@ -1,0 +1,15 @@
+Entidad: Causa
+- id: Identificador único de la causa.
+- titulo: Nombre de la causa.
+- descripcion: Explicación del problema o solicitud.
+- fecha: Fecha en la que fue creada.
+
+Esta entidad almacena la información principal de cada causa registrada.
+
+Entidad: Apoyo
+- id: Identificador único del apoyo.
+- causa_id: Identifica la causa a la que pertenece el apoyo.
+- nombre: Nombre de la persona que brinda el apoyo.
+- fecha: Fecha en la que se registró el apoyo.
+
+Esta entidad almacena los apoyos que recibe cada causa por parte de la comunidad.
